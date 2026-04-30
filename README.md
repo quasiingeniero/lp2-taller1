@@ -7,8 +7,7 @@
 
 ## Autores
 
-- [@estudiante1](https://www.github.com/estudiante1)
-- [@estudiante2](https://www.github.com/estudiante2)
+- [@Quasi Ingeniero](https://www.github.com/quasiingeniero)
 
 ## Descripción del Proyecto
 
